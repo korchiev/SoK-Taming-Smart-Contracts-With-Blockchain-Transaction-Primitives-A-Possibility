@@ -32,7 +32,4 @@ To use these notebooks, clone the repository and open the notebooks in a Jupyter
 
 Contributions to this repository are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
